@@ -152,3 +152,10 @@ while(!success) {
     learn();
     improve();
 }
+<div align="center">
+
+### ⭐ Thanks for visiting my profile!
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:00C2FF&height=120&section=footer"/>
+
+</div>
