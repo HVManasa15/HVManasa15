@@ -165,7 +165,7 @@ The platform improves communication and engagement between alumni and institutio
 
 ---
 
-# 💻 Coding Quote
+# 💻 Quote
 
 <div align="center">
 
@@ -175,3 +175,20 @@ while True:
     learn()
     improve()
     repeat()
+    ---
+
+<div align="center">
+
+<!-- BLUE ANIMATION BAR -->
+<img src="https://user-images.githubusercontent.com/74038190/216656986-9bcf0f2f-6f7f-4d6d-94bc-df3f8b2b4b8b.gif" width="100%">
+
+<br><br>
+
+### ⭐ Thanks for visiting my profile!
+
+<br>
+
+<!-- BOTTOM BLUE WAVE -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:00C2FF&height=180&section=footer&animation=fadeIn"/>
+
+</div>
