@@ -8,9 +8,9 @@
 <br/>
 
 <!-- ✏️ Your name and tagline -->
-# Your Name Here
+H V Manasa
 ### `// Full Stack Developer & CS Student`
-📍 Your City, India
+📍 Honnavara, India
 
 <br/>
 
@@ -72,10 +72,12 @@
 
 | Project | Description | Tech Stack | Live |
 |---|---|---|---|
-| Project Name 1 | Short description here | HTML, JS, Node.js | [🔗 Demo](#) |
-| Project Name 2 | Short description here | Python, MySQL | [🔗 Demo](#) |
-| Project Name 3 | Short description here | Angular, PHP | [🔗 Demo](#) |
-| Project Name 4 | Short description here | Node.js, MySQL | [🔗 Demo](#) |
+| ALUMNI_NEXUS | SAlumni Nexus 🎓
+
+Alumni Nexus is a full-stack web application designed to connect alumni, students, faculty, and administrators on a single platform. The project helps institutions manage alumni records, events, gallery updates, notes, and donations efficiently through a user-friendly interface and role-based access system.
+
+The platform provides separate functionalities for administrators and users, making communication and alumni engagement easier and more organized.hort description here | HTML, css,java script,php,mysql | [🔗 ALUMNI_NEXUS](#) |
+
 
 <!-- ✏️ Replace # with your actual live URLs -->
 
@@ -88,9 +90,6 @@
 | Certificate | Issuer | Year |
 |---|---|---|
 | Certification Name 1 | Coursera / Google | 2024 |
-| Certification Name 2 | freeCodeCamp / IBM | 2024 |
-| Certification Name 3 | Microsoft / AWS | 2025 |
-| Certification Name 4 | Oracle / Meta | 2025 |
 
 <!-- ✏️ Replace with your real certifications -->
 
