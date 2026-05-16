@@ -451,20 +451,20 @@
   <!-- HERO -->
   <div class="card hero">
     <div class="avatar-wrap">
-      <div class="avatar">YN</div>  <!-- ✏️ your initials -->
+      <div class="avatar">YN</div>
       <div class="avatar-ring"></div>
       <div class="avatar-dot"></div>
     </div>
     <div class="hero-info">
-      <div class="hero-name">Your Name Here</div>  <!-- ✏️ your name -->
-      <div class="hero-tag">// Full Stack Developer &amp; CS Student</div>  <!-- ✏️ tagline -->
-      <div class="hero-loc"><i class="ti ti-map-pin"></i> Your City, India</div>  <!-- ✏️ location -->
+      <div class="hero-name">Your Name Here</div>
+      <div class="hero-tag">// Full Stack Developer & CS Student</div>
+      <div class="hero-loc"><i class="ti ti-map-pin"></i> Your City, India</div>
       <div class="typing-line"><span id="typing-text"></span><span class="cursor"></span></div>
       <div class="badges">
-        <a href="https://github.com/username" class="badge" target="_blank"><i class="ti ti-brand-github"></i> github/username</a>  <!-- ✏️ -->
-        <a href="https://linkedin.com/in/username" class="badge" target="_blank"><i class="ti ti-brand-linkedin"></i> linkedin/username</a>  <!-- ✏️ -->
-        <a href="mailto:your@email.com" class="badge"><i class="ti ti-mail"></i> your@email.com</a>  <!-- ✏️ -->
-        <a href="https://x.com/yourhandle" class="badge" target="_blank"><i class="ti ti-brand-twitter"></i> @yourhandle</a>  <!-- ✏️ -->
+        <a href="https://github.com/username" class="badge" target="_blank"><i class="ti ti-brand-github"></i> github/username</a>
+        <a href="https://linkedin.com/in/username" class="badge" target="_blank"><i class="ti ti-brand-linkedin"></i> linkedin/username</a>
+        <a href="mailto:your@email.com" class="badge"><i class="ti ti-mail"></i> your@email.com</a>
+        <a href="https://x.com/yourhandle" class="badge" target="_blank"><i class="ti ti-brand-twitter"></i> @yourhandle</a>
       </div>
     </div>
   </div>
@@ -481,7 +481,6 @@
   <div class="two-col">
     <div class="card">
       <div class="section-label"><i class="ti ti-code"></i> Tech skills</div>
-      <!-- ✏️ adjust data-width and % label per skill -->
       <div class="skill-row"><div class="skill-meta"><span>HTML / CSS</span><span class="skill-pct">90%</span></div><div class="skill-track"><div class="skill-bar" data-width="90%" style="background:var(--c-html)"></div></div></div>
       <div class="skill-row"><div class="skill-meta"><span>JavaScript</span><span class="skill-pct">80%</span></div><div class="skill-track"><div class="skill-bar" data-width="80%" style="background:var(--c-js)"></div></div></div>
       <div class="skill-row"><div class="skill-meta"><span>Angular</span><span class="skill-pct">72%</span></div><div class="skill-track"><div class="skill-bar" data-width="72%" style="background:var(--c-angular)"></div></div></div>
@@ -502,7 +501,6 @@
             <div class="donut-center-lbl">languages</div>
           </div>
         </div>
-        <!-- ✏️ adjust language names and percentages -->
         <div class="lang-legend">
           <div class="lang-row"><div class="lang-dot" style="background:var(--c-html)"></div>HTML/CSS<span class="lang-pct">34%</span></div>
           <div class="lang-row"><div class="lang-dot" style="background:var(--c-js)"></div>JavaScript<span class="lang-pct">28%</span></div>
@@ -533,7 +531,6 @@
   <div class="card" style="margin-top:1.5rem; margin-bottom:2rem;">
     <div class="section-label"><i class="ti ti-flame"></i> Streak stats</div>
     <div class="streak-grid">
-      <!-- ✏️ replace streak numbers -->
       <div class="streak-card"><div class="streak-num" style="color:var(--accent)">45</div><div class="streak-lbl">Current streak</div></div>
       <div class="streak-card"><div class="streak-num" style="color:var(--accent2)">82</div><div class="streak-lbl">Longest streak</div></div>
       <div class="streak-card"><div class="streak-num" style="color:var(--accent3)">210</div><div class="streak-lbl">Total active days</div></div>
@@ -547,17 +544,17 @@
     <div class="proj-card">
       <div class="proj-top">
         <div class="proj-icon" style="background:rgba(74,222,128,0.1);color:var(--green)"><i class="ti ti-world"></i></div>
-        <div class="proj-name">Project Name 1</div>  <!-- ✏️ -->
+        <div class="proj-name">Project Name 1</div>
       </div>
-      <div class="proj-desc">Short description of this project. Replace with your own.</div>  <!-- ✏️ -->
+      <div class="proj-desc">Short description of this project. Replace with your own.</div>
       <div class="proj-tags">
-        <span class="proj-tag">HTML/CSS</span>  <!-- ✏️ -->
+        <span class="proj-tag">HTML/CSS</span>
         <span class="proj-tag">JavaScript</span>
         <span class="proj-tag">Node.js</span>
       </div>
       <div class="proj-footer">
-        <span><i class="ti ti-star"></i> 0</span>  <!-- ✏️ stars -->
-        <span><i class="ti ti-git-fork"></i> 0</span>  <!-- ✏️ forks -->
+        <span><i class="ti ti-star"></i> 0</span>
+        <span><i class="ti ti-git-fork"></i> 0</span>
         <span style="color:var(--c-js)"><i class="ti ti-circle-filled"></i> JavaScript</span>
       </div>
     </div>
@@ -565,9 +562,9 @@
     <div class="proj-card">
       <div class="proj-top">
         <div class="proj-icon" style="background:rgba(129,140,248,0.1);color:var(--purple)"><i class="ti ti-server"></i></div>
-        <div class="proj-name">Project Name 2</div>  <!-- ✏️ -->
+        <div class="proj-name">Project Name 2</div>
       </div>
-      <div class="proj-desc">Short description of this project. Replace with your own.</div>  <!-- ✏️ -->
+      <div class="proj-desc">Short description of this project. Replace with your own.</div>
       <div class="proj-tags">
         <span class="proj-tag">Python</span>
         <span class="proj-tag">MySQL</span>
@@ -583,9 +580,9 @@
     <div class="proj-card">
       <div class="proj-top">
         <div class="proj-icon" style="background:rgba(248,113,113,0.1);color:var(--red)"><i class="ti ti-device-mobile"></i></div>
-        <div class="proj-name">Project Name 3</div>  <!-- ✏️ -->
+        <div class="proj-name">Project Name 3</div>
       </div>
-      <div class="proj-desc">Short description of this project. Replace with your own.</div>  <!-- ✏️ -->
+      <div class="proj-desc">Short description of this project. Replace with your own.</div>
       <div class="proj-tags">
         <span class="proj-tag">Angular</span>
         <span class="proj-tag">PHP</span>
@@ -601,9 +598,9 @@
     <div class="proj-card">
       <div class="proj-top">
         <div class="proj-icon" style="background:rgba(110,231,183,0.1);color:var(--accent)"><i class="ti ti-database"></i></div>
-        <div class="proj-name">Project Name 4</div>  <!-- ✏️ -->
+        <div class="proj-name">Project Name 4</div>
       </div>
-      <div class="proj-desc">Short description of this project. Replace with your own.</div>  <!-- ✏️ -->
+      <div class="proj-desc">Short description of this project. Replace with your own.</div>
       <div class="proj-tags">
         <span class="proj-tag">Node.js</span>
         <span class="proj-tag">MySQL</span>
@@ -625,49 +622,49 @@
     <div class="cert-card">
       <div class="cert-icon" style="background:rgba(34,211,238,0.1);color:var(--teal)"><i class="ti ti-shield-check"></i></div>
       <div>
-        <div class="cert-name">Certification Name 1</div>  <!-- ✏️ -->
-        <div class="cert-issuer">Issuer — e.g. Coursera / Google</div>  <!-- ✏️ -->
+        <div class="cert-name">Certification Name 1</div>
+        <div class="cert-issuer">Issuer — e.g. Coursera / Google</div>
       </div>
-      <span class="cert-year">2024</span>  <!-- ✏️ -->
+      <span class="cert-year">2024</span>
     </div>
 
     <div class="cert-card">
       <div class="cert-icon" style="background:rgba(129,140,248,0.1);color:var(--accent2)"><i class="ti ti-code"></i></div>
       <div>
-        <div class="cert-name">Certification Name 2</div>  <!-- ✏️ -->
-        <div class="cert-issuer">Issuer — e.g. freeCodeCamp / IBM</div>  <!-- ✏️ -->
+        <div class="cert-name">Certification Name 2</div>
+        <div class="cert-issuer">Issuer — e.g. freeCodeCamp / IBM</div>
       </div>
-      <span class="cert-year">2024</span>  <!-- ✏️ -->
+      <span class="cert-year">2024</span>
     </div>
 
     <div class="cert-card">
       <div class="cert-icon" style="background:rgba(74,222,128,0.1);color:var(--green)"><i class="ti ti-brand-python"></i></div>
       <div>
-        <div class="cert-name">Certification Name 3</div>  <!-- ✏️ -->
-        <div class="cert-issuer">Issuer — e.g. Microsoft / AWS</div>  <!-- ✏️ -->
+        <div class="cert-name">Certification Name 3</div>
+        <div class="cert-issuer">Issuer — e.g. Microsoft / AWS</div>
       </div>
-      <span class="cert-year">2025</span>  <!-- ✏️ -->
+      <span class="cert-year">2025</span>
     </div>
 
     <div class="cert-card">
       <div class="cert-icon" style="background:rgba(250,204,21,0.1);color:var(--yellow)"><i class="ti ti-trophy"></i></div>
       <div>
-        <div class="cert-name">Certification Name 4</div>  <!-- ✏️ -->
-        <div class="cert-issuer">Issuer — e.g. Oracle / Meta</div>  <!-- ✏️ -->
+        <div class="cert-name">Certification Name 4</div>
+        <div class="cert-issuer">Issuer — e.g. Oracle / Meta</div>
       </div>
-      <span class="cert-year">2025</span>  <!-- ✏️ -->
+      <span class="cert-year">2025</span>
     </div>
 
   </div>
 
   <!-- FOOTER -->
   <div class="footer">
-    crafted by <span style="color:var(--accent)">Your Name</span> · open to opportunities · 2025  <!-- ✏️ -->
+    crafted by <span style="color:var(--accent)">Your Name</span> · open to opportunities · 2025
   </div>
 
 </div>
 <script>
-  /* ── Typing animation ── ✏️ replace these 4 lines */
+  /* ── Typing animation ── */
   const typingLines = [
     "Building the web, one commit at a time.",
     "Student by day, coder by night.",
@@ -689,24 +686,24 @@
   }
   typeLoop();
 
-  /* ── Counters ── ✏️ replace these 4 numbers */
+  /* ── Counters ── */
   function animateCount(id, target) {
     const el = document.getElementById(id);
     let v = 0;
     const step = Math.ceil(target / 60);
     const t = setInterval(() => { v = Math.min(v + step, target); el.textContent = v; if (v >= target) clearInterval(t); }, 20);
   }
-  animateCount('repos-count',  18);   /* ✏️ repo count */
-  animateCount('commit-count', 342);  /* ✏️ commits this year */
-  animateCount('streak-count', 45);   /* ✏️ current streak */
-  animateCount('stars-count',  12);   /* ✏️ total stars */
+  animateCount('repos-count',  18);
+  animateCount('commit-count', 342);
+  animateCount('streak-count', 45);
+  animateCount('stars-count',  12);
 
   /* ── Skill bars ── */
   setTimeout(() => {
     document.querySelectorAll('.skill-bar').forEach(b => { b.style.width = b.dataset.width; });
   }, 300);
 
-  /* ── Activity grid ── ✏️ replace with your pattern (0=none, 1-4=intensity) */
+  /* ── Activity grid ── */
   const levels = [
     0,0,0,1,0,1,2,0,1,1,2,3,1,2,0,3,2,1,4,2,3,1,2,4,3,2,
     1,0,2,1,3,2,0,1,2,3,1,4,2,1,3,2,1,0,3,2,4,3,1,2,
@@ -723,7 +720,7 @@
     grid.appendChild(d);
   });
 
-  /* ── Donut chart ── ✏️ replace pct values to match your language split */
+  /* ── Donut chart ── */
   setTimeout(() => {
     const canvas = document.getElementById('donut-canvas');
     const ctx = canvas.getContext('2d');
