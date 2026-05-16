@@ -1,12 +1,15 @@
 <div align="center">
 
-<!-- Animated Typing -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=2500&pause=1200&color=00C2FF&center=true&vCenter=true&width=1000&lines=Hey+there!+👋;I'm+H+V+Manasa;Full+Stack+Developer+%7C+MCA+Student;Passionate+About+Web+Development;Building+Creative+%26+Modern+Web+Applications" alt="Typing SVG" />
+<!-- TOP ANIMATED BLUE WAVE -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C2FF,100:6C63FF&height=220&section=header&text=H%20V%20Manasa&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20MCA%20Student&descAlignY=58&descSize=18"/>
+
+<!-- TYPING ANIMATION -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2500&pause=1200&color=38BDF8&center=true&vCenter=true&width=1000&lines=Hey+there!+👋;I'm+H+V+Manasa;Full+Stack+Developer+%7C+MCA+Student;Passionate+About+Web+Development;Building+Creative+%26+Modern+Web+Applications" alt="Typing SVG" />
 
 <br><br>
 
-<!-- Animated Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C2FF,100:6C63FF&height=180&section=header&text=Welcome%20To%20My%20GitHub&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+<!-- ANIMATED DIVIDER -->
+<img src="https://user-images.githubusercontent.com/74038190/212744275-c56a72c2-0c6e-4b3d-94b7-4f1b4f2c7f6b.gif" width="100%">
 
 </div>
 
@@ -24,11 +27,11 @@
 
 # 🌟 Professional Summary
 
-Enthusiastic and detail-oriented Full Stack Developer currently pursuing MCA with a strong interest in web development and software engineering. Skilled in developing responsive and interactive web applications using frontend and backend technologies.
+Enthusiastic and detail-oriented Full Stack Developer currently pursuing MCA with a strong interest in web development and software engineering.
 
-Experienced in working with HTML, CSS, JavaScript, PHP, and MySQL to build dynamic projects with clean UI and efficient functionality. Passionate about learning modern technologies, improving problem-solving skills, and building impactful digital solutions.
+Experienced in developing responsive and interactive web applications using HTML, CSS, JavaScript, PHP, and MySQL. Passionate about learning modern technologies, solving real-world problems, and building impactful digital solutions.
 
-Focused on writing clean, maintainable, and scalable code while continuously exploring new development practices and technologies.
+Focused on writing clean, scalable, and maintainable code while continuously improving technical and problem-solving skills.
 
 ---
 
@@ -39,16 +42,21 @@ Focused on writing clean, maintainable, and scalable code while continuously exp
 ### 🌐 Frontend
 <img src="https://skillicons.dev/icons?i=html,css,javascript" />
 
+<br><br>
+
 ### ⚙️ Backend & Database
 <img src="https://skillicons.dev/icons?i=php,mysql,python" />
+
+<br><br>
 
 ### 🧰 Tools & Platforms
 <img src="https://skillicons.dev/icons?i=git,github,c,vscode" />
 
-<br>
+<br><br>
 
 <img src="https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white" />
-<img src="https://img.shields.io/badge/WAMP-6C63FF?style=for-the-badge&logo=windows-terminal&logoColor=white" />
+
+<img src="https://img.shields.io/badge/WAMP-6C63FF?style=for-the-badge&logo=windows&logoColor=white" />
 
 </div>
 
@@ -58,7 +66,7 @@ Focused on writing clean, maintainable, and scalable code while continuously exp
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=38BDF8&line=818CF8&point=F472B6" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=HVManasa15&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=38BDF8&line=818CF8&point=F472B6" width="100%" />
 
 </div>
 
@@ -66,15 +74,28 @@ Focused on writing clean, maintainable, and scalable code while continuously exp
 
 # 🚀 Featured Project
 
-## 🎓 Alumni Nexus
+<div align="center">
 
-### 📌 Project Description
+# 🎓 Alumni Nexus
 
-Alumni Nexus is a full-stack web application developed to connect alumni, students, faculty, and administrators on a single platform. The system helps institutions efficiently manage alumni records, events, notes, gallery updates, and donations through a user-friendly dashboard and role-based authentication system.
+<img src="https://img.shields.io/badge/Project-FullStack-blue?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Status-Active-success?style=for-the-badge" />
 
-The platform improves communication and engagement between alumni and institutions while providing an organized digital environment for administration and collaboration.
+</div>
 
-### ✨ Key Features
+---
+
+## 📌 Project Description
+
+Alumni Nexus is a full-stack web application developed to connect alumni, students, faculty, and administrators on a single platform.
+
+The system helps institutions efficiently manage alumni records, events, notes, gallery updates, and donations through a secure role-based authentication system.
+
+The platform improves communication and engagement between alumni and institutions while providing an organized and user-friendly digital environment.
+
+---
+
+## ✨ Key Features
 
 - 🔐 Role-Based Authentication
 - 👨‍🎓 Alumni & Faculty Management
@@ -83,14 +104,17 @@ The platform improves communication and engagement between alumni and institutio
 - 📝 Notes Sharing
 - 📊 Admin Dashboard
 - 🔍 Search & Manage Records
+- 📱 Responsive User Interface
 
-### 🛠️ Technologies Used
+---
 
-- HTML
-- CSS
-- JavaScript
-- PHP
-- MySQL
+## 🛠️ Technologies Used
+
+<div align="left">
+
+<img src="https://skillicons.dev/icons?i=html,css,javascript,php,mysql" />
+
+</div>
 
 ---
 
@@ -106,7 +130,6 @@ The platform improves communication and engagement between alumni and institutio
 ## 🏫 MPES's S.D.M Degree College, Honnavara
 ### Bachelor of Computer Applications (BCA)
 📅 2022 – 2025
-
 
 <br>
 
@@ -130,7 +153,7 @@ The platform improves communication and engagement between alumni and institutio
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/h-v-manasa-5a35b5335?utm_source=share_via&utm_content=profile&utm_medium=member_android">
+<a href="https://www.linkedin.com/in/h-v-manasa-5a35b5335">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
@@ -146,16 +169,9 @@ The platform improves communication and engagement between alumni and institutio
 
 <div align="center">
 
-```cpp
-while(!success) {
-    tryAgain();
-    learn();
-    improve();
-}
-<div align="center">
-
-### ⭐ Thanks for visiting my profile!
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:00C2FF&height=120&section=footer"/>
-
-</div>
+```python
+while True:
+    code()
+    learn()
+    improve()
+    repeat()
