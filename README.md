@@ -1,666 +1,764 @@
-<!--
-  ╔═══════════════════════════════════════════════════════════════╗
-  ║  🚀 ULTRA-MODERN GITHUB PROFILE README DASHBOARD             ║
-  ║  Designed with ❤️ for a premium developer experience         ║
-  ╚═══════════════════════════════════════════════════════════════╝
--->
-
-<div align="center">
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!-- ANIMATED TYPING SVG BANNER -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F0FF&center=true&vCenter=true&width=700&height=60&lines=Hi+there+%F0%9F%91%8B,+I'm+YOUR_NAME;Full+Stack+%7C+Web3+%7C+Blockchain+Developer;Building+the+Future+%F0%9F%9A%80;Open+Source+Enthusiast+%F0%9F%92%BB)](https://git.io/typing-svg)
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!-- CUSTOM NEON DIVIDER -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=00F0FF:7B2FBE&height=100&section=header&text=&fontSize=0" alt="header"/>
-
-<br>
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!-- PROFILE INTRODUCTION WITH GLASSMORPHISM STYLE -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-<table align="center" width="100%">
-<tr>
-<td width="50%">
-
-### 🌌 About Me
-
-```python
-class Developer:
-    def __init__(self):
-        self.name = "YOUR_NAME"
-        self.role = "Full Stack Developer"
-        self.location = "YOUR_LOCATION"
-        self.passion = "Building the Future"
-    
-    def skills(self):
-        return ["Web3", "AI", "Blockchain", "DeFi"]
-    
-    def mission(self):
-        return "Creating digital experiences that matter"
-```
-
-🔭 Currently working on **exciting Web3 projects**
-
-🌱 Currently learning **Advanced Solidity & Rust**
-
-👨‍💻 All projects at **[YOUR_GITHUB](https://github.com/YOUR_GITHUB)**
-
-📫 Reach me at **[YOUR_EMAIL](mailto:YOUR_EMAIL)**
-
-⚡ Fun fact: **I code better after midnight 🌙**
-
-</td>
-<td width="50%" align="center">
-
-<!-- Developer Animation GIF -->
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="coding" width="300"/>
-
-</td>
-</tr>
-</table>
-
-<br>
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!-- CONNECT WITH ME SECTION -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-### 🌐 Connect With Me
-
-<p align="center">
-  <a href="https://github.com/YOUR_GITHUB" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://twitter.com/YOUR_X" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
-  </a>
-  <a href="mailto:YOUR_EMAIL">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
-</p>
-
-<br>
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!-- WAVE DIVIDER -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=7B2FBE:00F0FF&height=80&section=footer&fontSize=0" alt="wave"/>
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!-- GITHUB STATS DASHBOARD -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-<br>
-
-### 📊 GitHub Statistics Dashboard
-
-<table align="center" width="100%">
-<tr>
-<td align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=00F0FF&icon_color=7B2FBE&text_color=ffffff&custom_title=GitHub+Universe)
-
-</td>
-<td align="center">
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=00F0FF&icon_color=7B2FBE&text_color=ffffff)
-
-</td>
-</tr>
-</table>
-
-<br>
-
-<table align="center" width="100%">
-<tr>
-<td align="center">
-
-![Streak Stats](https://streak-stats.demolab.com?user=YOUR_GITHUB&theme=dark&hide_border=true&background=0D1117&ring=00F0FF&fire=7B2FBE&currStreakLabel=00F0FF)
-
-</td>
-<td align="center">
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB&theme=react-dark&hide_border=true&bg_color=0D1117&color=00F0FF&line=7B2FBE&point=FFFFFF&area=true&custom_title=Contribution+Graph)
-
-</td>
-</tr>
-</table>
-
-<br>
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!-- TROPHY SECTION -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-### 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB&theme=dark_lover&no-frame=true&row=1&column=7&margin-w=15&margin-h=15" alt="trophies"/>
-</p>
-
-<br>
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!-- NEON DIVIDER -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-<img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="100%" alt="neon divider"/>
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!-- TECH STACK SECTION -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-<br>
-
-### 🛠️ Tech Stack Arsenal
-
-<table align="center">
-<tr>
-<td align="center">
-
-#### Frontend
-
-<img src="https://skillicons.dev/icons?i=html,css,javascript,react,tailwind,bootstrap,vue&theme=dark" alt="frontend"/>
-
-</td>
-<td align="center">
-
-#### Backend
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,python,php,mysql,mongodb&theme=dark" alt="backend"/>
-
-</td>
-</tr>
-<tr>
-<td align="center">
-
-#### Web3 & Blockchain
-
-<img src="https://skillicons.dev/icons?i=solidity,ethereum,web3js,hardhat&theme=dark" alt="web3"/>
-
-</td>
-<td align="center">
-
-#### DevOps & Tools
-
-<img src="https://skillicons.dev/icons?i=git,github,docker,aws,vercel,netlify,vscode&theme=dark" alt="devops"/>
-
-</td>
-</tr>
-</table>
-
-<br>
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!-- WAVE DIVIDER -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=00F0FF:7B2FBE&height=80&section=footer&fontSize=0" alt="wave"/>
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!-- FEATURED PROJECTS -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-<br>
-
-### 🚀 Featured Projects
-
-<table align="center" width="100%">
-<tr>
-<td width="48%" align="center" valign="top">
-
-**🎓 Alumni Nexus Website**
-
-A comprehensive platform connecting alumni with current students for mentorship and networking opportunities.
-
-![GitHub Repo stars](https://img.shields.io/github/stars/YOUR_GITHUB/alumni-nexus?style=for-the-badge&color=00F0FF)
-
-</td>
-<td width="48%" align="center" valign="top">
-
-**💼 Portfolio Website**
-
-A modern, responsive portfolio showcasing projects and skills with stunning animations.
-
-![GitHub Repo stars](https://img.shields.io/github/stars/YOUR_GITHUB/portfolio?style=for-the-badge&color=7B2FBE)
-
-</td>
-</tr>
-<tr>
-<td width="48%" align="center" valign="top">
-
-**🚌 Bus Ticket Booking System**
-
-An end-to-end bus ticketing solution with real-time seat availability and booking management.
-
-![GitHub Repo stars](https://img.shields.io/github/stars/YOUR_GITHUB/bus-booking?style=for-the-badge&color=00F0FF)
-
-</td>
-<td width="48%" align="center" valign="top">
-
-**🐾 Animal Rescue Web App**
-
-A platform dedicated to helping abandoned animals find loving homes through adoption.
-
-![GitHub Repo stars](https://img.shields.io/github/stars/YOUR_GITHUB/animal-rescue?style=for-the-badge&color=7B2FBE)
-
-</td>
-</tr>
-<tr>
-<td width="48%" align="center" valign="top">
-
-**📊 Smart Student Dashboard**
-
-An intelligent dashboard for tracking academic progress, attendance, and performance analytics.
-
-![GitHub Repo stars](https://img.shields.io/github/stars/YOUR_GITHUB/student-dashboard?style=for-the-badge&color=00F0FF)
-
-</td>
-<td width="48%" align="center" valign="top">
-
-**🔗 More on GitHub**
-
-Explore my complete portfolio of projects, experiments, and open-source contributions.
-
-<a href="https://github.com/YOUR_GITHUB?tab=repositories">
-  <img src="https://img.shields.io/badge/View_All_Projects-00F0FF?style=for-the-badge&logo=github&logoColor=white" alt="View Projects"/>
-</a>
-
-</td>
-</tr>
-</table>
-
-<br>
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!-- NEON DIVIDER -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vN9/giphy.gif" width="100%" alt="neon divider"/>
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!-- CURRENTLY LEARNING -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-<br>
-
-### 📚 Currently Learning
-
-<p align="center">
-  <img src="https://img.shields.io/badge/🔥_Solidity-Advanced_Smart_Contracts-00F0FF?style=for-the-badge" alt="solidity"/>
-  <img src="https://img.shields.io/badge/⚡_Rust-Systems_Programming-7B2FBE?style=for-the-badge" alt="rust"/>
-  <img src="https://img.shields.io/badge/🤖_Machine_Learning-AI_Mastery-00F0FF?style=for-the-badge" alt="ml"/>
-  <img src="https://img.shields.io/badge/🔗_GraphQL-API_Design-7B2FBE?style=for-the-badge" alt="graphql"/>
-  <img src="https://img.shields.io/badge/☸️_Kubernetes-Container_Orchestration-00F0FF?style=for-the-badge" alt="k8s"/>
-</p>
-
-<br>
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!-- ACHIEVEMENTS & CERTIFICATIONS -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-<br>
-
-### 🏅 Achievements & Certifications
-
-<table align="center" width="100%">
-<tr>
-<td align="center">
-
-**🎖️ Certified Blockchain Developer**
-*Blockchain Council - 2024*
-
-</td>
-<td align="center">
-
-**🎖️ AWS Cloud Practitioner**
-*Amazon Web Services - 2024*
-
-</td>
-<td align="center">
-
-**🎖️ Full Stack Web Development**
-*Meta Certified - 2023*
-
-</td>
-</tr>
-</table>
-
-<br>
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!-- HACKATHON PARTICIPATION -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-<br>
-
-### 🏆 Hackathon Participation
-
-<p align="center">
-  <img src="https://img.shields.io/badge/🏆_ETH_India_2024-Top_10_Finalist-00F0FF?style=for-the-badge&logo=ethereum&logoColor=white" alt="eth india"/>
-  <img src="https://img.shields.io/badge/🥇_Smart_India_Hackathon-Winner_2023-7B2FBE?style=for-the-badge" alt="sih"/>
-  <img src="https://img.shields.io/badge/🎯_Hack_the_Box-Finalist-00F0FF?style=for-the-badge" alt="htb"/>
-</p>
-
-<br>
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!-- OPEN SOURCE CONTRIBUTIONS -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-<br>
-
-### 🌟 Open Source Contributions
-
-<p align="center">
-
-![GitHub Contributions](https://ghchart.rshah.org/00F0FF/YOUR_GITHUB)
-
-</p>
-
-<br>
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!-- CONTRIBUTION SNAKE ANIMATION -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-<br>
-
-### 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="snake"/>
-</p>
-
-<br>
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!-- WAVE DIVIDER -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=7B2FBE:00F0FF&height=80&section=footer&fontSize=0" alt="wave"/>
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!-- WEB3 & BLOCKCHAIN SECTION -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-<br>
-
-### 🔗 Web3 & Blockchain Expertise
-
-<table align="center" width="100%">
-<tr>
-<td align="center">
-
-#### Smart Contracts
-
-- ✅ Solidity Development
-- ✅ DeFi Protocol Design
-- ✅ NFT Marketplaces
-- ✅ DAO Governance
-
-</td>
-<td align="center">
-
-#### Tools & Frameworks
-
-<img src="https://skillicons.dev/icons?i=solidity,ethers,web3js,hardhat,truffle,metamask&theme=dark" alt="web3tools"/>
-
-</td>
-</tr>
-</table>
-
-<br>
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!-- AI & MACHINE LEARNING SECTION -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-<br>
-
-### 🤖 AI & Machine Learning
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv&theme=dark" alt="ai"/>
-</p>
-
-**Current AI Projects:**
-- 🧠 Sentiment Analysis Engine
-- 🖼️ Image Recognition System
-- 📝 NLP Chatbot Development
-
-<br>
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!-- DEVOPS SECTION -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-<br>
-
-### ⚙️ DevOps & Cloud
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,azure,gcp,terraform,githubactions&theme=dark" alt="devops"/>
-</p>
-
-**CI/CD Pipeline Experience:**
-- 🔄 GitHub Actions Workflows
-- 🐳 Docker Containerization
-- ☁️ AWS/GCP Cloud Deployment
-
-<br>
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!-- NEON DIVIDER -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-<img src="https://media.giphy.com/media/2t9sHf90x8hZ4kSDhk/giphy.gif" width="100%" alt="neon divider"/>
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!-- ROADMAP / TIMELINE SECTION -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-<br>
-
-### 🗺️ My Journey Timeline
-
-<table align="center" width="100%">
-<tr>
-<td align="center">
-
-**🎯 2024**
-*Senior Developer*
-Building Web3 solutions
-
-</td>
-<td align="center">
-
-**🎯 2023**
-*Full Stack Developer*
-Mastering React & Node.js
-
-</td>
-<td align="center">
-
-**🎯 2022**
-*Junior Developer*
-Started coding journey
-
-</td>
-</tr>
-</table>
-
-<br>
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!-- FUN FACTS SECTION -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-<br>
-
-### 🎪 Fun Facts
-
-<table align="center" width="100%">
-<tr>
-<td align="center" width="33%">
-
-**☕ Coffee Consumption**
-```
-██████████ 100%
-```
-*5+ cups daily*
-
-</td>
-<td align="center" width="33%">
-
-**🌙 Night Owl Hours**
-```
-████████░░ 80%
-```
-*Most productive at 2 AM*
-
-</td>
-<td align="center" width="33%">
-
-**💻 Lines of Code**
-```
-██████████ 100%
-```
-*1M+ lines written*
-
-</td>
-</tr>
-</table>
-
-<br>
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!-- DAILY CODING MOTIVATION -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-<br>
-
-### 💪 Daily Coding Motivation
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&color=00F0FF" alt="motivation"/>
-</p>
-
-<br>
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!-- WAKATIME / CODING TIME -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-<br>
-
-### ⏱️ Coding Activity (WakaTime)
-
-<p align="center">
-
-<!-- Replace with your actual WakaTime username -->
-<img src="https://wakatime.com/share/@YOUR_GITHUB/stats.svg" alt="wakatime" width="100%"/>
-
-</p>
-
-<br>
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!-- VISITOR COUNTER -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-<br>
-
-### 👀 Profile Visitors
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB&label=Profile+Views&color=00F0FF&style=for-the-badge" alt="views"/>
-  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FYOUR_GITHUB&count_bg=%237B2FBE&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false" alt="hits"/>
-</p>
-
-<br>
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!-- SUPPORT / SPONSOR SECTION -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-<br>
-
-### 💖 Support My Work
-
-<p align="center">
-  <a href="https://buymeacoffee.com/YOUR_GITHUB">
-    <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="buy me a coffee"/>
-  </a>
-  <a href="https://github.com/sponsors/YOUR_GITHUB">
-    <img src="https://img.shields.io/badge/Sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=white" alt="sponsor"/>
-  </a>
-</p>
-
-<br>
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!-- FINAL WAVE DIVIDER -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=00F0FF:7B2FBE:00F0FF&height=150&section=footer&fontSize=0" alt="final wave"/>
-
-<br>
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!-- FOOTER -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=500&color=00F0FF&center=true&vCenter=true&width=500&height=40&lines=Thanks+for+visiting!+%F0%9F%9A%80;Let's+build+something+amazing+together!" alt="footer typing"/>
-</p>
-
-<br>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Made_with-❤️-FF0000?style=for-the-badge" alt="made with love"/>
-  <img src="https://img.shields.io/badge/Powered_by-Coffee-FFDD00?style=for-the-badge&logo=coffee&logoColor=black" alt="powered by coffee"/>
-  <img src="https://img.shields.io/badge/Version-2.0.0-00F0FF?style=for-the-badge" alt="version"/>
-</p>
-
-<br>
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!-- EASTER EGG - Hidden message when viewing source -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-<!--
-  ╔═══════════════════════════════════════════════════════════════╗
-  ║  🎉 EASTER EGG FOUND! 🎉                                      ║
-  ║                                                               ║
-  ║  Congratulations! You've discovered the hidden message.       ║
-  ║  You're a true explorer! 🗺️                                  ║
-  ║                                                               ║
-  ║  "The best code is the code that solves real problems."       ║
-  ║                                                               ║
-  ╚═══════════════════════════════════════════════════════════════╝
--->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Your Name — GitHub Dashboard</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;500;600&family=Sora:wght@300;400;500;600&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@tabler/icons-webfont@latest/tabler-icons.min.css" />
+  <style>
+    :root {
+      --bg: #0d0f14;
+      --bg2: #13161e;
+      --bg3: #1a1d27;
+      --border: rgba(255,255,255,0.07);
+      --border2: rgba(255,255,255,0.13);
+      --text: #e8eaf0;
+      --text2: #8b8fa8;
+      --text3: #555870;
+      --accent: #6ee7b7;
+      --accent2: #818cf8;
+      --accent3: #f472b6;
+      --green: #4ade80;
+      --yellow: #facc15;
+      --orange: #fb923c;
+      --red: #f87171;
+      --teal: #22d3ee;
+      --purple: #a78bfa;
+      --c-html: #4ade80;
+      --c-js: #facc15;
+      --c-angular: #f87171;
+      --c-python: #818cf8;
+      --c-nodejs: #6ee7b7;
+      --c-php: #fb923c;
+      --c-mysql: #f472b6;
+      --c-git: #94a3b8;
+      --radius: 12px;
+      --radius-sm: 8px;
+      --font-mono: 'JetBrains Mono', monospace;
+      --font-sans: 'Sora', sans-serif;
+    }
+
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+
+    body {
+      background: var(--bg);
+      color: var(--text);
+      font-family: var(--font-sans);
+      min-height: 100vh;
+      line-height: 1.6;
+    }
+
+    .page {
+      max-width: 900px;
+      margin: 0 auto;
+      padding: 3rem 1.5rem 4rem;
+    }
+
+    body::before {
+      content: '';
+      position: fixed;
+      inset: 0;
+      background-image:
+        linear-gradient(rgba(110,231,183,0.03) 1px, transparent 1px),
+        linear-gradient(90deg, rgba(110,231,183,0.03) 1px, transparent 1px);
+      background-size: 40px 40px;
+      pointer-events: none;
+      z-index: 0;
+    }
+    .page { position: relative; z-index: 1; }
+
+    .card {
+      background: var(--bg2);
+      border: 1px solid var(--border);
+      border-radius: var(--radius);
+      padding: 1.5rem;
+      transition: border-color 0.2s;
+    }
+    .card:hover { border-color: var(--border2); }
+
+    .section-label {
+      font-family: var(--font-mono);
+      font-size: 11px;
+      color: var(--accent);
+      letter-spacing: 0.12em;
+      text-transform: uppercase;
+      display: flex;
+      align-items: center;
+      gap: 8px;
+      margin-bottom: 1.25rem;
+    }
+    .section-label::after {
+      content: '';
+      flex: 1;
+      height: 1px;
+      background: var(--border);
+    }
+
+    .hero {
+      display: grid;
+      grid-template-columns: auto 1fr;
+      gap: 2rem;
+      align-items: center;
+      margin-bottom: 2rem;
+      padding: 2rem;
+    }
+
+    .avatar-wrap { position: relative; }
+    .avatar {
+      width: 100px;
+      height: 100px;
+      border-radius: 50%;
+      background: var(--bg3);
+      border: 2px solid var(--border2);
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      font-size: 32px;
+      font-weight: 600;
+      color: var(--accent);
+      font-family: var(--font-mono);
+      position: relative;
+      z-index: 1;
+    }
+    .avatar-ring {
+      position: absolute;
+      inset: -6px;
+      border-radius: 50%;
+      border: 1px dashed var(--accent);
+      opacity: 0.4;
+      animation: spin 12s linear infinite;
+    }
+    .avatar-dot {
+      position: absolute;
+      bottom: 4px;
+      right: 4px;
+      width: 14px;
+      height: 14px;
+      border-radius: 50%;
+      background: var(--green);
+      border: 2px solid var(--bg2);
+      z-index: 2;
+    }
+    @keyframes spin { to { transform: rotate(360deg); } }
+
+    .hero-name { font-size: 28px; font-weight: 600; color: var(--text); }
+    .hero-tag {
+      font-family: var(--font-mono);
+      font-size: 13px;
+      color: var(--accent2);
+      margin-top: 4px;
+    }
+    .hero-loc {
+      font-size: 13px;
+      color: var(--text3);
+      margin-top: 6px;
+      display: flex;
+      align-items: center;
+      gap: 4px;
+    }
+
+    .typing-line {
+      font-family: var(--font-mono);
+      font-size: 13px;
+      color: var(--text2);
+      margin-top: 10px;
+      min-height: 20px;
+    }
+    .cursor {
+      display: inline-block;
+      width: 2px;
+      height: 13px;
+      background: var(--accent);
+      vertical-align: middle;
+      animation: blink 0.8s step-end infinite;
+    }
+    @keyframes blink { 50% { opacity: 0; } }
+
+    .badges {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 8px;
+      margin-top: 14px;
+    }
+    .badge {
+      font-family: var(--font-mono);
+      font-size: 11px;
+      padding: 4px 12px;
+      border-radius: 99px;
+      border: 1px solid var(--border2);
+      color: var(--text2);
+      background: var(--bg3);
+      text-decoration: none;
+      display: flex;
+      align-items: center;
+      gap: 5px;
+      transition: border-color 0.2s, color 0.2s;
+    }
+    .badge:hover { border-color: var(--accent); color: var(--accent); }
+
+    .stats-grid {
+      display: grid;
+      grid-template-columns: repeat(4, 1fr);
+      gap: 12px;
+      margin-bottom: 2rem;
+    }
+    .stat-card {
+      background: var(--bg2);
+      border: 1px solid var(--border);
+      border-radius: var(--radius);
+      padding: 1.25rem 1rem;
+      text-align: center;
+      position: relative;
+      overflow: hidden;
+    }
+    .stat-card::before {
+      content: '';
+      position: absolute;
+      top: 0; left: 0; right: 0;
+      height: 2px;
+    }
+    .stat-card.s1::before { background: var(--accent); }
+    .stat-card.s2::before { background: var(--accent2); }
+    .stat-card.s3::before { background: var(--accent3); }
+    .stat-card.s4::before { background: var(--yellow); }
+    .stat-num {
+      font-family: var(--font-mono);
+      font-size: 28px;
+      font-weight: 600;
+      color: var(--text);
+    }
+    .stat-label {
+      font-size: 11px;
+      color: var(--text3);
+      margin-top: 4px;
+      text-transform: uppercase;
+      letter-spacing: 0.05em;
+    }
+
+    .two-col {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 1.5rem;
+      margin-bottom: 2rem;
+    }
+
+    .skill-row { margin-bottom: 12px; }
+    .skill-meta {
+      display: flex;
+      justify-content: space-between;
+      font-family: var(--font-mono);
+      font-size: 12px;
+      color: var(--text2);
+      margin-bottom: 5px;
+    }
+    .skill-pct { color: var(--text3); }
+    .skill-track {
+      height: 4px;
+      background: var(--bg3);
+      border-radius: 99px;
+      overflow: hidden;
+    }
+    .skill-bar {
+      height: 100%;
+      border-radius: 99px;
+      width: 0;
+      transition: width 1.4s cubic-bezier(0.4,0,0.2,1);
+    }
+
+    .donut-wrap { display: flex; flex-direction: column; gap: 1rem; }
+    .donut-canvas-wrap {
+      position: relative;
+      width: 140px;
+      height: 140px;
+      margin: 0 auto;
+    }
+    .donut-center {
+      position: absolute;
+      inset: 0;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+    }
+    .donut-center-num {
+      font-family: var(--font-mono);
+      font-size: 20px;
+      font-weight: 600;
+      color: var(--text);
+    }
+    .donut-center-lbl { font-size: 10px; color: var(--text3); }
+    .lang-legend { display: flex; flex-direction: column; gap: 6px; }
+    .lang-row {
+      display: flex;
+      align-items: center;
+      gap: 8px;
+      font-family: var(--font-mono);
+      font-size: 11px;
+      color: var(--text2);
+    }
+    .lang-dot { width: 8px; height: 8px; border-radius: 50%; flex-shrink: 0; }
+    .lang-pct { margin-left: auto; color: var(--text3); }
+
+    .activity-section { margin-bottom: 2rem; }
+    .activity-grid {
+      display: grid;
+      grid-template-columns: repeat(26, 1fr);
+      gap: 3px;
+    }
+    .act-cell {
+      aspect-ratio: 1;
+      border-radius: 2px;
+      background: var(--bg3);
+      transition: transform 0.1s, opacity 0.1s;
+      cursor: default;
+    }
+    .act-cell:hover { transform: scale(1.5); opacity: 0.9; }
+    .act-1 { background: #14532d; }
+    .act-2 { background: #16a34a; }
+    .act-3 { background: #4ade80; }
+    .act-4 { background: #86efac; }
+    .legend-row {
+      display: flex;
+      align-items: center;
+      gap: 5px;
+      justify-content: flex-end;
+      margin-top: 8px;
+    }
+    .legend-cell { width: 10px; height: 10px; border-radius: 2px; }
+    .legend-txt { font-family: var(--font-mono); font-size: 10px; color: var(--text3); }
+
+    .streak-grid {
+      display: grid;
+      grid-template-columns: repeat(3, 1fr);
+      gap: 10px;
+    }
+    .streak-card {
+      background: var(--bg3);
+      border-radius: var(--radius-sm);
+      padding: 1rem;
+      text-align: center;
+      border: 1px solid var(--border);
+    }
+    .streak-num {
+      font-family: var(--font-mono);
+      font-size: 22px;
+      font-weight: 600;
+      color: var(--text);
+    }
+    .streak-lbl { font-size: 11px; color: var(--text3); margin-top: 3px; }
+
+    .projects-grid {
+      display: grid;
+      grid-template-columns: repeat(2, 1fr);
+      gap: 1rem;
+      margin-bottom: 2rem;
+    }
+    .proj-card {
+      background: var(--bg2);
+      border: 1px solid var(--border);
+      border-radius: var(--radius);
+      padding: 1.25rem;
+      display: flex;
+      flex-direction: column;
+      gap: 10px;
+      transition: border-color 0.2s, transform 0.2s;
+    }
+    .proj-card:hover { border-color: var(--border2); transform: translateY(-2px); }
+    .proj-top { display: flex; align-items: center; gap: 10px; }
+    .proj-icon {
+      width: 34px; height: 34px;
+      border-radius: var(--radius-sm);
+      display: flex; align-items: center; justify-content: center;
+      font-size: 16px; flex-shrink: 0;
+    }
+    .proj-name { font-size: 14px; font-weight: 500; color: var(--text); }
+    .proj-desc { font-size: 12px; color: var(--text2); line-height: 1.6; }
+    .proj-tags { display: flex; flex-wrap: wrap; gap: 5px; }
+    .proj-tag {
+      font-family: var(--font-mono);
+      font-size: 10px;
+      padding: 2px 8px;
+      border-radius: 99px;
+      border: 1px solid var(--border2);
+      color: var(--text3);
+    }
+    .proj-footer {
+      display: flex;
+      gap: 12px;
+      font-family: var(--font-mono);
+      font-size: 11px;
+      color: var(--text3);
+      margin-top: auto;
+    }
+    .proj-footer span { display: flex; align-items: center; gap: 3px; }
+
+    .cert-list { display: flex; flex-direction: column; gap: 10px; margin-bottom: 2rem; }
+    .cert-card {
+      background: var(--bg2);
+      border: 1px solid var(--border);
+      border-radius: var(--radius);
+      padding: 1rem 1.25rem;
+      display: flex;
+      align-items: center;
+      gap: 14px;
+      transition: border-color 0.2s;
+    }
+    .cert-card:hover { border-color: var(--border2); }
+    .cert-icon {
+      width: 38px; height: 38px;
+      border-radius: var(--radius-sm);
+      display: flex; align-items: center; justify-content: center;
+      font-size: 18px; flex-shrink: 0;
+    }
+    .cert-name { font-size: 13px; font-weight: 500; color: var(--text); }
+    .cert-issuer { font-size: 11px; color: var(--text3); margin-top: 2px; }
+    .cert-year {
+      margin-left: auto;
+      font-family: var(--font-mono);
+      font-size: 11px;
+      padding: 3px 10px;
+      border-radius: 99px;
+      border: 1px solid var(--border2);
+      color: var(--text3);
+      white-space: nowrap;
+    }
+
+    .footer {
+      text-align: center;
+      font-family: var(--font-mono);
+      font-size: 11px;
+      color: var(--text3);
+      margin-top: 3rem;
+      padding-top: 1.5rem;
+      border-top: 1px solid var(--border);
+    }
+
+    @media (max-width: 640px) {
+      .hero { grid-template-columns: 1fr; text-align: center; }
+      .badges { justify-content: center; }
+      .stats-grid { grid-template-columns: repeat(2, 1fr); }
+      .two-col { grid-template-columns: 1fr; }
+      .projects-grid { grid-template-columns: 1fr; }
+    }
+  </style>
+</head>
+<body>
+<div class="page">
+
+  <!-- HERO -->
+  <div class="card hero">
+    <div class="avatar-wrap">
+      <div class="avatar">YN</div>  <!-- ✏️ your initials -->
+      <div class="avatar-ring"></div>
+      <div class="avatar-dot"></div>
+    </div>
+    <div class="hero-info">
+      <div class="hero-name">Your Name Here</div>  <!-- ✏️ your name -->
+      <div class="hero-tag">// Full Stack Developer &amp; CS Student</div>  <!-- ✏️ tagline -->
+      <div class="hero-loc"><i class="ti ti-map-pin"></i> Your City, India</div>  <!-- ✏️ location -->
+      <div class="typing-line"><span id="typing-text"></span><span class="cursor"></span></div>
+      <div class="badges">
+        <a href="https://github.com/username" class="badge" target="_blank"><i class="ti ti-brand-github"></i> github/username</a>  <!-- ✏️ -->
+        <a href="https://linkedin.com/in/username" class="badge" target="_blank"><i class="ti ti-brand-linkedin"></i> linkedin/username</a>  <!-- ✏️ -->
+        <a href="mailto:your@email.com" class="badge"><i class="ti ti-mail"></i> your@email.com</a>  <!-- ✏️ -->
+        <a href="https://x.com/yourhandle" class="badge" target="_blank"><i class="ti ti-brand-twitter"></i> @yourhandle</a>  <!-- ✏️ -->
+      </div>
+    </div>
+  </div>
+
+  <!-- STATS -->
+  <div class="stats-grid">
+    <div class="stat-card s1"><div class="stat-num" id="repos-count">0</div><div class="stat-label">Repositories</div></div>
+    <div class="stat-card s2"><div class="stat-num" id="commit-count">0</div><div class="stat-label">Commits this year</div></div>
+    <div class="stat-card s3"><div class="stat-num" id="streak-count">0</div><div class="stat-label">Day streak</div></div>
+    <div class="stat-card s4"><div class="stat-num" id="stars-count">0</div><div class="stat-label">Total stars</div></div>
+  </div>
+
+  <!-- SKILLS + DONUT -->
+  <div class="two-col">
+    <div class="card">
+      <div class="section-label"><i class="ti ti-code"></i> Tech skills</div>
+      <!-- ✏️ adjust data-width and % label per skill -->
+      <div class="skill-row"><div class="skill-meta"><span>HTML / CSS</span><span class="skill-pct">90%</span></div><div class="skill-track"><div class="skill-bar" data-width="90%" style="background:var(--c-html)"></div></div></div>
+      <div class="skill-row"><div class="skill-meta"><span>JavaScript</span><span class="skill-pct">80%</span></div><div class="skill-track"><div class="skill-bar" data-width="80%" style="background:var(--c-js)"></div></div></div>
+      <div class="skill-row"><div class="skill-meta"><span>Angular</span><span class="skill-pct">72%</span></div><div class="skill-track"><div class="skill-bar" data-width="72%" style="background:var(--c-angular)"></div></div></div>
+      <div class="skill-row"><div class="skill-meta"><span>Python</span><span class="skill-pct">75%</span></div><div class="skill-track"><div class="skill-bar" data-width="75%" style="background:var(--c-python)"></div></div></div>
+      <div class="skill-row"><div class="skill-meta"><span>Node.js</span><span class="skill-pct">68%</span></div><div class="skill-track"><div class="skill-bar" data-width="68%" style="background:var(--c-nodejs)"></div></div></div>
+      <div class="skill-row"><div class="skill-meta"><span>PHP</span><span class="skill-pct">60%</span></div><div class="skill-track"><div class="skill-bar" data-width="60%" style="background:var(--c-php)"></div></div></div>
+      <div class="skill-row"><div class="skill-meta"><span>MySQL</span><span class="skill-pct">65%</span></div><div class="skill-track"><div class="skill-bar" data-width="65%" style="background:var(--c-mysql)"></div></div></div>
+      <div class="skill-row"><div class="skill-meta"><span>Git / GitHub</span><span class="skill-pct">78%</span></div><div class="skill-track"><div class="skill-bar" data-width="78%" style="background:var(--c-git)"></div></div></div>
+    </div>
+
+    <div class="card">
+      <div class="section-label"><i class="ti ti-chart-donut"></i> Language split</div>
+      <div class="donut-wrap">
+        <div class="donut-canvas-wrap">
+          <canvas id="donut-canvas" width="140" height="140"></canvas>
+          <div class="donut-center">
+            <div class="donut-center-num">5</div>
+            <div class="donut-center-lbl">languages</div>
+          </div>
+        </div>
+        <!-- ✏️ adjust language names and percentages -->
+        <div class="lang-legend">
+          <div class="lang-row"><div class="lang-dot" style="background:var(--c-html)"></div>HTML/CSS<span class="lang-pct">34%</span></div>
+          <div class="lang-row"><div class="lang-dot" style="background:var(--c-js)"></div>JavaScript<span class="lang-pct">28%</span></div>
+          <div class="lang-row"><div class="lang-dot" style="background:var(--c-python)"></div>Python<span class="lang-pct">18%</span></div>
+          <div class="lang-row"><div class="lang-dot" style="background:var(--c-angular)"></div>Angular/TS<span class="lang-pct">12%</span></div>
+          <div class="lang-row"><div class="lang-dot" style="background:var(--c-php)"></div>PHP<span class="lang-pct">8%</span></div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- ACTIVITY GRID -->
+  <div class="card activity-section">
+    <div class="section-label"><i class="ti ti-chart-dots"></i> Contribution activity · last 26 weeks</div>
+    <div class="activity-grid" id="activity-grid"></div>
+    <div class="legend-row">
+      <span class="legend-txt">less</span>
+      <div class="legend-cell" style="background:var(--bg3)"></div>
+      <div class="legend-cell" style="background:#14532d"></div>
+      <div class="legend-cell" style="background:#16a34a"></div>
+      <div class="legend-cell" style="background:#4ade80"></div>
+      <div class="legend-cell" style="background:#86efac"></div>
+      <span class="legend-txt">more</span>
+    </div>
+  </div>
+
+  <!-- STREAK -->
+  <div class="card" style="margin-top:1.5rem; margin-bottom:2rem;">
+    <div class="section-label"><i class="ti ti-flame"></i> Streak stats</div>
+    <div class="streak-grid">
+      <!-- ✏️ replace streak numbers -->
+      <div class="streak-card"><div class="streak-num" style="color:var(--accent)">45</div><div class="streak-lbl">Current streak</div></div>
+      <div class="streak-card"><div class="streak-num" style="color:var(--accent2)">82</div><div class="streak-lbl">Longest streak</div></div>
+      <div class="streak-card"><div class="streak-num" style="color:var(--accent3)">210</div><div class="streak-lbl">Total active days</div></div>
+    </div>
+  </div>
+
+  <!-- PROJECTS -->
+  <div class="section-label" style="margin-bottom:1rem;"><i class="ti ti-layout-grid"></i> Projects</div>
+  <div class="projects-grid">
+
+    <div class="proj-card">
+      <div class="proj-top">
+        <div class="proj-icon" style="background:rgba(74,222,128,0.1);color:var(--green)"><i class="ti ti-world"></i></div>
+        <div class="proj-name">Project Name 1</div>  <!-- ✏️ -->
+      </div>
+      <div class="proj-desc">Short description of this project. Replace with your own.</div>  <!-- ✏️ -->
+      <div class="proj-tags">
+        <span class="proj-tag">HTML/CSS</span>  <!-- ✏️ -->
+        <span class="proj-tag">JavaScript</span>
+        <span class="proj-tag">Node.js</span>
+      </div>
+      <div class="proj-footer">
+        <span><i class="ti ti-star"></i> 0</span>  <!-- ✏️ stars -->
+        <span><i class="ti ti-git-fork"></i> 0</span>  <!-- ✏️ forks -->
+        <span style="color:var(--c-js)"><i class="ti ti-circle-filled"></i> JavaScript</span>
+      </div>
+    </div>
+
+    <div class="proj-card">
+      <div class="proj-top">
+        <div class="proj-icon" style="background:rgba(129,140,248,0.1);color:var(--purple)"><i class="ti ti-server"></i></div>
+        <div class="proj-name">Project Name 2</div>  <!-- ✏️ -->
+      </div>
+      <div class="proj-desc">Short description of this project. Replace with your own.</div>  <!-- ✏️ -->
+      <div class="proj-tags">
+        <span class="proj-tag">Python</span>
+        <span class="proj-tag">MySQL</span>
+        <span class="proj-tag">REST API</span>
+      </div>
+      <div class="proj-footer">
+        <span><i class="ti ti-star"></i> 0</span>
+        <span><i class="ti ti-git-fork"></i> 0</span>
+        <span style="color:var(--c-python)"><i class="ti ti-circle-filled"></i> Python</span>
+      </div>
+    </div>
+
+    <div class="proj-card">
+      <div class="proj-top">
+        <div class="proj-icon" style="background:rgba(248,113,113,0.1);color:var(--red)"><i class="ti ti-device-mobile"></i></div>
+        <div class="proj-name">Project Name 3</div>  <!-- ✏️ -->
+      </div>
+      <div class="proj-desc">Short description of this project. Replace with your own.</div>  <!-- ✏️ -->
+      <div class="proj-tags">
+        <span class="proj-tag">Angular</span>
+        <span class="proj-tag">PHP</span>
+        <span class="proj-tag">MySQL</span>
+      </div>
+      <div class="proj-footer">
+        <span><i class="ti ti-star"></i> 0</span>
+        <span><i class="ti ti-git-fork"></i> 0</span>
+        <span style="color:var(--c-angular)"><i class="ti ti-circle-filled"></i> Angular</span>
+      </div>
+    </div>
+
+    <div class="proj-card">
+      <div class="proj-top">
+        <div class="proj-icon" style="background:rgba(110,231,183,0.1);color:var(--accent)"><i class="ti ti-database"></i></div>
+        <div class="proj-name">Project Name 4</div>  <!-- ✏️ -->
+      </div>
+      <div class="proj-desc">Short description of this project. Replace with your own.</div>  <!-- ✏️ -->
+      <div class="proj-tags">
+        <span class="proj-tag">Node.js</span>
+        <span class="proj-tag">MySQL</span>
+        <span class="proj-tag">Git</span>
+      </div>
+      <div class="proj-footer">
+        <span><i class="ti ti-star"></i> 0</span>
+        <span><i class="ti ti-git-fork"></i> 0</span>
+        <span style="color:var(--c-nodejs)"><i class="ti ti-circle-filled"></i> Node.js</span>
+      </div>
+    </div>
+
+  </div>
+
+  <!-- CERTIFICATIONS -->
+  <div class="section-label" style="margin-bottom:1rem;"><i class="ti ti-certificate"></i> Certifications</div>
+  <div class="cert-list">
+
+    <div class="cert-card">
+      <div class="cert-icon" style="background:rgba(34,211,238,0.1);color:var(--teal)"><i class="ti ti-shield-check"></i></div>
+      <div>
+        <div class="cert-name">Certification Name 1</div>  <!-- ✏️ -->
+        <div class="cert-issuer">Issuer — e.g. Coursera / Google</div>  <!-- ✏️ -->
+      </div>
+      <span class="cert-year">2024</span>  <!-- ✏️ -->
+    </div>
+
+    <div class="cert-card">
+      <div class="cert-icon" style="background:rgba(129,140,248,0.1);color:var(--accent2)"><i class="ti ti-code"></i></div>
+      <div>
+        <div class="cert-name">Certification Name 2</div>  <!-- ✏️ -->
+        <div class="cert-issuer">Issuer — e.g. freeCodeCamp / IBM</div>  <!-- ✏️ -->
+      </div>
+      <span class="cert-year">2024</span>  <!-- ✏️ -->
+    </div>
+
+    <div class="cert-card">
+      <div class="cert-icon" style="background:rgba(74,222,128,0.1);color:var(--green)"><i class="ti ti-brand-python"></i></div>
+      <div>
+        <div class="cert-name">Certification Name 3</div>  <!-- ✏️ -->
+        <div class="cert-issuer">Issuer — e.g. Microsoft / AWS</div>  <!-- ✏️ -->
+      </div>
+      <span class="cert-year">2025</span>  <!-- ✏️ -->
+    </div>
+
+    <div class="cert-card">
+      <div class="cert-icon" style="background:rgba(250,204,21,0.1);color:var(--yellow)"><i class="ti ti-trophy"></i></div>
+      <div>
+        <div class="cert-name">Certification Name 4</div>  <!-- ✏️ -->
+        <div class="cert-issuer">Issuer — e.g. Oracle / Meta</div>  <!-- ✏️ -->
+      </div>
+      <span class="cert-year">2025</span>  <!-- ✏️ -->
+    </div>
+
+  </div>
+
+  <!-- FOOTER -->
+  <div class="footer">
+    crafted by <span style="color:var(--accent)">Your Name</span> · open to opportunities · 2025  <!-- ✏️ -->
+  </div>
 
 </div>
+<script>
+  /* ── Typing animation ── ✏️ replace these 4 lines */
+  const typingLines = [
+    "Building the web, one commit at a time.",
+    "Student by day, coder by night.",
+    "Passionate about full stack development.",
+    "Always learning, always shipping."
+  ];
+  let li = 0, ci = 0, deleting = false;
+  const el = document.getElementById('typing-text');
+  function typeLoop() {
+    const line = typingLines[li];
+    if (!deleting) {
+      el.textContent = line.slice(0, ++ci);
+      if (ci === line.length) { deleting = true; setTimeout(typeLoop, 1800); return; }
+    } else {
+      el.textContent = line.slice(0, --ci);
+      if (ci === 0) { deleting = false; li = (li + 1) % typingLines.length; }
+    }
+    setTimeout(typeLoop, deleting ? 35 : 65);
+  }
+  typeLoop();
 
----
+  /* ── Counters ── ✏️ replace these 4 numbers */
+  function animateCount(id, target) {
+    const el = document.getElementById(id);
+    let v = 0;
+    const step = Math.ceil(target / 60);
+    const t = setInterval(() => { v = Math.min(v + step, target); el.textContent = v; if (v >= target) clearInterval(t); }, 20);
+  }
+  animateCount('repos-count',  18);   /* ✏️ repo count */
+  animateCount('commit-count', 342);  /* ✏️ commits this year */
+  animateCount('streak-count', 45);   /* ✏️ current streak */
+  animateCount('stars-count',  12);   /* ✏️ total stars */
 
-<p align="center">
-  <sub>Built with ❤️ by YOUR_NAME | © 2024 All Rights Reserved</sub>
-</p>
+  /* ── Skill bars ── */
+  setTimeout(() => {
+    document.querySelectorAll('.skill-bar').forEach(b => { b.style.width = b.dataset.width; });
+  }, 300);
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!-- END OF README -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
+  /* ── Activity grid ── ✏️ replace with your pattern (0=none, 1-4=intensity) */
+  const levels = [
+    0,0,0,1,0,1,2,0,1,1,2,3,1,2,0,3,2,1,4,2,3,1,2,4,3,2,
+    1,0,2,1,3,2,0,1,2,3,1,4,2,1,3,2,1,0,3,2,4,3,1,2,
+    0,0,1,2,1,0,2,1,3,2,1,2,3,4,2,1,3,2,0,1,2,3,1,2,
+    3,2,4,1,2,0,1,2,3,2,1,4,2,3,1,2,3,0,1,2,4,3,2,1,
+    2,3,1,0,2,1,3,2,1,0,2,3,4,2,1,3,0,1,2,1,3,2,4,1,
+    2,0,1,2,3,1,2,4,3,2,1,2,3,1,4,2,3,0,1,2,3,2,1,4,
+    0,0,1,2,0,1,2,0,1,1,2,3,1,0,0,3,2,1,4,2,3,1,0,4,3,2
+  ];
+  const grid = document.getElementById('activity-grid');
+  levels.slice(0, 182).forEach(l => {
+    const d = document.createElement('div');
+    d.className = 'act-cell' + (l ? ' act-' + l : '');
+    grid.appendChild(d);
+  });
+
+  /* ── Donut chart ── ✏️ replace pct values to match your language split */
+  setTimeout(() => {
+    const canvas = document.getElementById('donut-canvas');
+    const ctx = canvas.getContext('2d');
+    const style = getComputedStyle(document.documentElement);
+    const segments = [
+      { pct: 34, color: style.getPropertyValue('--c-html').trim() },
+      { pct: 28, color: style.getPropertyValue('--c-js').trim() },
+      { pct: 18, color: style.getPropertyValue('--c-python').trim() },
+      { pct: 12, color: style.getPropertyValue('--c-angular').trim() },
+      { pct: 8,  color: style.getPropertyValue('--c-php').trim() }
+    ];
+    const cx = 70, cy = 70, r = 62, inner = 38;
+    const total = segments.reduce((s, x) => s + x.pct, 0);
+    let drawn = 0;
+    function drawFrame() {
+      ctx.clearRect(0, 0, 140, 140);
+      let sa = -Math.PI / 2;
+      const progress = Math.min(drawn / 100, 1);
+      segments.forEach(seg => {
+        const sweep = (seg.pct / total) * Math.PI * 2 * progress;
+        const gap = 0.04;
+        ctx.beginPath();
+        ctx.moveTo(cx + Math.cos(sa + gap) * inner, cy + Math.sin(sa + gap) * inner);
+        ctx.arc(cx, cy, r, sa + gap, sa + sweep - gap);
+        ctx.arc(cx, cy, inner, sa + sweep - gap, sa + gap, true);
+        ctx.closePath();
+        ctx.fillStyle = seg.color;
+        ctx.fill();
+        sa += sweep;
+      });
+      drawn += 3;
+      if (drawn <= 100) requestAnimationFrame(drawFrame);
+    }
+    drawFrame();
+  }, 500);
+</script>
+</body>
+</html>
