@@ -120,7 +120,7 @@ The platform improves communication and engagement between alumni and institutio
 
 # 🎓 Education
 
-## 🏫 Sir M Visvesvaraya Institute of Technology
+### 🏫 Sir M Visvesvaraya Institute of Technology
 ### Master of Computer Applications (MCA)
 📍 Bengaluru, Karnataka  
 📅 2025 – 2027
@@ -184,13 +184,9 @@ while True:
 <div align="center">
 
 <img src="https://user-images.githubusercontent.com/74038190/216656986-9bcf0f2f-6f7f-4d6d-94bc-df3f8b2b4b8b.gif" width="100%">
-
 <br><br>
-
 ### ⭐ Thanks for visiting my profile!
-
 <br>
-
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:00C2FF,100:6C63FF"/>
 
 </div>
