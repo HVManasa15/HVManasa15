@@ -120,21 +120,22 @@ The platform improves communication and engagement between alumni and institutio
 
 # 🎓 Education
 
-### 🏫 Sir M Visvesvaraya Institute of Technology
-### Master of Computer Applications (MCA)
+### 🏫Master of Computer Applications (MCA)
+####  Sir M Visvesvaraya Institute of Technology
+
 📍 Bengaluru, Karnataka  
 📅 2025 – 2027
 
 <br>
 
-## 🏫 MPES's S.D.M Degree College, Honnavara
-### Bachelor of Computer Applications (BCA)
+### 🏫Bachelor of Computer Applications (BCA)
+####  MPES's S.D.M Degree College, Honnavara
 📅 2022 – 2025
 
 <br>
 
-## 🏫 Govt. PU College, Honnavara
-### PCMB
+### 🏫 PCMB 
+#### Govt. PU College, Honnavara
 📅 2020 – 2022
 
 ---
